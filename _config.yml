@@ -10,7 +10,7 @@ title: Roy's Corner
 email: chanonroy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A Jekyll blog series about Chanon Roy's adventures in programming and life.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://blog.chanonroy.com" # the base hostname & protocol for your site
 twitter_username: chanonroy
 github_username:  chanonroy
